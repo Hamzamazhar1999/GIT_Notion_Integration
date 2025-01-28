@@ -1,6 +1,6 @@
 ### **Week 1: Planning and Research**
 - **Day 1 (Monday, Jan 27):** Define project scope and key features (1 hour). ✔
-- **Day 2 (Tuesday, Jan 28):** Research GitHub API capabilities (1 hour).
+- **Day 2 (Tuesday, Jan 28):** Research GitHub API capabilities (1 hour). ✔
 - **Day 3 (Wednesday, Jan 29):** Research Notion API capabilities (1 hour).
 - **Day 4 (Thursday, Jan 30):** Explore AI tools for summarization and content generation (1 hour). ✔
 - **Day 5 (Friday, Jan 31):** Draft project architecture and identify dependencies (1 hour).
@@ -71,7 +71,7 @@
 | **Week**                          | **Day** | **Date**     | **Task**                                                              | **Time (hrs)** | **Progress** |
 | --------------------------------- | ------- | ------------ | --------------------------------------------------------------------- | -------------- | ------------ |
 | Week 1: Planning and Research     | Day 1   | Jan 27 (Mon) | Define project scope and key features                                 | 1              | ✔           |
-|                                   | Day 2   | Jan 28 (Tue) | Research GitHub API capabilities                                      | 1              |              |
+|                                   | Day 2   | Jan 28 (Tue) | Research GitHub API capabilities                                      | 1              | ✔           |
 |                                   | Day 3   | Jan 29 (Wed) | Research Notion API capabilities                                      | 1              |              |
 |                                   | Day 4   | Jan 30 (Thu) | Explore AI tools for summarization and content generation             | 1              | ✔           |
 |                                   | Day 5   | Jan 31 (Fri) | Draft project architecture and identify dependencies                  | 1              |              |
