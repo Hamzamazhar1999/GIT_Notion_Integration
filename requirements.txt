@@ -3,3 +3,4 @@ beautifulsoup4
 transformers
 pandas
 openai
+tiktoken
