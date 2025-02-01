@@ -1,21 +1,21 @@
 ### **Week 1: Planning and Research**
 - **Day 1 (Monday, Jan 27):** Define project scope and key features (1 hour). ✔
 - **Day 2 (Tuesday, Jan 28):** Research GitHub API capabilities (1 hour). ✔
-- **Day 3 (Wednesday, Jan 29):** Research Notion API capabilities (1 hour).
+- **Day 3 (Wednesday, Jan 29):** Research Notion API capabilities (1 hour). 
 - **Day 4 (Thursday, Jan 30):** Explore AI tools for summarization and content generation (1 hour). ✔
-- **Day 5 (Friday, Jan 31):** Draft project architecture and identify dependencies (1 hour).
-- **Day 6 (Saturday, Feb 1):** Finalize architecture, set up initial project repo, and write basic documentation (3 hours).
-- **Day 7 (Sunday, Feb 2):** Plan testing strategies and evaluation metrics (3 hours).
+- **Day 5 (Friday, Jan 31):** Draft project architecture and identify dependencies (1 hour). ✔
+- **Day 6 (Saturday, Feb 1):** Finalize architecture, set up initial project repo, and write basic documentation (3 hours). ✔
+- **Day 7 (Sunday, Feb 2):** Plan testing strategies and evaluation metrics (3 hours). 
 
 ---
 
 ### **Week 2: GitHub Integration**
-- **Day 8 (Monday, Feb 3):** Set up REST API client for GitHub and fetch repository metadata (1 hour).
-- **Day 9 (Tuesday, Feb 4):** Continue fetching repository metadata and debugging REST API requests (1 hour).
-- **Day 10 (Wednesday, Feb 5):** Parse directory structure using data from GitHub REST API (1 hour).
-- **Day 11 (Thursday, Feb 6):** Preprocess extracted content for AI analysis (1 hour).
-- **Day 12 (Friday, Feb 7):** Refine preprocessing and begin testing (1 hour).
-- **Day 13 (Saturday, Feb 8):** Test GitHub API integration and fix bugs (3 hours).
+- **Day 8 (Monday, Feb 3):** Set up REST API client for GitHub and fetch repository metadata (1 hour). ✔
+- **Day 9 (Tuesday, Feb 4):** Continue fetching repository metadata and debugging REST API requests (1 hour). ✔
+- **Day 10 (Wednesday, Feb 5):** Parse directory structure using data from GitHub REST API (1 hour). ✔
+- **Day 11 (Thursday, Feb 6):** Preprocess extracted content for AI analysis (1 hour). 
+- **Day 12 (Friday, Feb 7):** Refine preprocessing and begin testing (1 hour). 
+- **Day 13 (Saturday, Feb 8):** Test GitHub API integration and fix bugs (3 hours). 
 - **Day 14 (Sunday, Feb 9):** Conduct further testing and finalize GitHub integration (3 hours).
 
 ---
@@ -74,12 +74,12 @@
 |                                   | Day 2   | Jan 28 (Tue) | Research GitHub API capabilities                                      | 1              | ✔           |
 |                                   | Day 3   | Jan 29 (Wed) | Research Notion API capabilities                                      | 1              |              |
 |                                   | Day 4   | Jan 30 (Thu) | Explore AI tools for summarization and content generation             | 1              | ✔           |
-|                                   | Day 5   | Jan 31 (Fri) | Draft project architecture and identify dependencies                  | 1              |              |
-|                                   | Day 6   | Feb 1 (Sat)  | Finalize architecture, set up initial project repo, and write docs    | 3              |              |
-|                                   | Day 7   | Feb 2 (Sun)  | Plan testing strategies and evaluation metrics                        | 3              |              |
-| Week 2: GitHub Integration        | Day 8   | Feb 3 (Mon)  | Set up REST API client for GitHub and fetch repository metadata       | 1              |              |
-|                                   | Day 9   | Feb 4 (Tue)  | Continue fetching repository metadata and debugging REST API requests | 1              |              |
-|                                   | Day 10  | Feb 5 (Wed)  | Parse directory structure using data from GitHub REST API             | 1              |              |
+|                                   | Day 5   | Jan 31 (Fri) | Draft project architecture and identify dependencies                  | 1              | ✔           |
+|                                   | Day 6   | Feb 1 (Sat)  | Finalize architecture, set up initial project repo, and write docs    | 3              | ✔           |
+|                                   | Day 7   | Feb 2 (Sun)  | Plan testing strategies and evaluation metrics                        | 3              | ✔           |
+| Week 2: GitHub Integration        | Day 8   | Feb 3 (Mon)  | Set up REST API client for GitHub and fetch repository metadata       | 1              | ✔           |
+|                                   | Day 9   | Feb 4 (Tue)  | Continue fetching repository metadata and debugging REST API requests | 1              | ✔           |
+|                                   | Day 10  | Feb 5 (Wed)  | Parse directory structure using data from GitHub REST API             | 1              | ✔           |
 |                                   | Day 11  | Feb 6 (Thu)  | Preprocess extracted content for AI analysis                          | 1              |              |
 |                                   | Day 12  | Feb 7 (Fri)  | Refine preprocessing and begin testing                                | 1              |              |
 |                                   | Day 13  | Feb 8 (Sat)  | Test GitHub API integration and fix bugs                              | 3              |              |

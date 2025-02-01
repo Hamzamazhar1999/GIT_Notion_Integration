@@ -2,3 +2,4 @@ apikey.py
 github_pat.py
 __pycache__/apikey.cpython-311.pyc
 __pycache__/github_pat.cpython-311.pyc
+__pycache__/repo_visualizer.cpython-311.pyc
